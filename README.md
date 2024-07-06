@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @code-asp
-- 👀 I’m interested in OSINT & SoftwareEngineering
-- 🌱 I’m currently learning C++/Rust
-- 💞️ I’m looking to collaborate on any Meaningful Projects
+- I’m interested in OSINT & SoftwareEngineering
+- I’m currently learning C++/Rust
+- I’m looking to collaborate on any Meaningful Projects
 
 
 <!---
