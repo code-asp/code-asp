@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @code-asp
-- I’m interested in OSINT & SoftwareEngineering
-- I’m currently learning C++/Rust
+- I have a degree in Software Engineering
+- I’m interested in OSINT & FINTech
 - I’m looking to collaborate on any Meaningful Projects
 
 
